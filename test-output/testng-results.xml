@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-30T12:09:09 EAT" name="Default suite" finished-at="2019-11-30T12:09:16 EAT" duration-ms="6346">
+    <groups>
+    </groups>
+    <test started-at="2019-11-30T12:09:09 EAT" name="Default test" finished-at="2019-11-30T12:09:16 EAT" duration-ms="6346">
+      <class name="pipeline_selenium.JenkinsPipeline">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:pipeline_selenium.JenkinsPipeline@30b7c004]" started-at="2019-11-30T12:09:09 EAT" name="launchBrowser" finished-at="2019-11-30T12:09:15 EAT" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="firstPipelineTest()[pri:0, instance:pipeline_selenium.JenkinsPipeline@30b7c004]" started-at="2019-11-30T12:09:15 EAT" name="firstPipelineTest" finished-at="2019-11-30T12:09:15 EAT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstPipelineTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pipeline_selenium.JenkinsPipeline@30b7c004]" started-at="2019-11-30T12:09:15 EAT" name="afterTest" finished-at="2019-11-30T12:09:16 EAT" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pipeline_selenium.JenkinsPipeline -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
